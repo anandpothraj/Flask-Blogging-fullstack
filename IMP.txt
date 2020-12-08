@@ -1,0 +1,8 @@
+1.from flask import Flask, render_template, request, session, redirect
+#pip install flask
+2.from flask_sqlalchemy import SQLAlchemy
+#pip install flask_sqlalchemy
+3.from werkzeug.utils import secure_filename
+#pip install werkzeug
+
+
